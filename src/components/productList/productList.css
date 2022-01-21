@@ -1,0 +1,43 @@
+
+.title{
+  color:#fff;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px ;
+}
+
+.projects {
+  background-color: #000016;
+  padding: 100px 200px;
+  
+}
+
+.projects .content{
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.title{
+  color:#fff;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px ;
+}
+
+@media screen and (max-width: 480px) {
+  .projects {
+    padding: 10px 10px;
+    
+  }
+  .projects .content{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px;
+    
+  }
+
+ 
+
+ 
+}

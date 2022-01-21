@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "_id": 1,
+      "image": "/images/pic1.jpg",
+      "title": "project1",
+      "category": "labahlablahdsn.mv/sc/you.cxcsvsavzxvzvdvcvdsvdcvsdbdvsdvdvsvv.,mv.vnd,mv,.dmv.md.vm.   dmvdvmvmdmv.d,mvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdb,sl/db.s'd.b,ds,  blsd,sddbmvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdbbjsbsksjcckjsuuhkshons',",
+       "anch":"learn more"
+    },
+    {
+      "_id": 2,
+      "image": "/images/pic2.jpg",
+      "title": "project2",
+      "category": "labahlablahdsn.mv/sc/you.cxcsvsavzxvzvdvcvdsvdcvsdbdvsdvdvsvv.,mv.vnd,mv,.dmv.md.vm.   dmvdvmvmdmv.d,mvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdb,sl/db.s'd.b,ds,  blsd,sddbmvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdbbjsbsksjcckjsuuhkshons',",
+      "anch":"learn more"
+    },
+    {
+      "_id": 3,
+      "image": "/images/pic3.jpg",
+      "title": "project3",
+      "category": "labahlablahdsn.mv/sc/you.cxcsvsavzxvzvdvcvdsvdcvsdbdvsdvdvsvv.,mv.vnd,mv,.dmv.md.vm.   dmvdvmvmdmv.d,mvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdb,sl/db.s'd.b,ds,  blsd,sddbmvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdbbjsbsksjcckjsuuhkshons',",
+      "anch":"learn more"
+     
+    },
+    {
+      "_id": 4,
+      "image": "/images/pic4.jpg",
+      "title": "project4",
+      "category": "labahlablahdsn.mv/sc/you.cxcsvsavzxvzvdvcvdsvdcvsdbdvsdvdvsvv.,mv.vnd,mv,.dmv.md.vm.   dmvdvmvmdmv.d,mvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdb,sl/db.s'd.b,ds,  blsd,sddbmvlkmdvlkmdmvvlvmslmsdsvmsblsdvdbmsbsdbbjsbsksjcckjsuuhkshons',",
+      "anch":"learn more"
+      
+    }
+    
+  ]
+}
